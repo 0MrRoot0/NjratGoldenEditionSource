@@ -8,5 +8,5 @@ This Source Code Was Deobfuscated With de4dot & Decompiled With Dnspy
 # Notes
 This Code is FULL of Errors , im too lazy to fix it xD
 
-# Please Github Don't Ban Me
- This is just a source code to learn the logic of the most famous RAT , NjRat , not for being skid with njrat 
+# :warning: DISCLAIMER :warning:
+This software has been created purely for the purposes of academic research. It is not intended to be used to attack other systems. Project maintainers are not responsible or liable for misuse of the software. Use responsibly.
